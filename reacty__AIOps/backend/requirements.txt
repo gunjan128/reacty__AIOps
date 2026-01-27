@@ -1,0 +1,7 @@
+langgraph  ###this is framework that we will use to build our agent workflow 
+langchain ## Provides tools to work with AI models 
+langchain-google-genai ##connect to google's gemiin ai models 
+fastapi ##web framework  to serve our API 
+langgraph-cli ##command line tools to run and develop our agent 
+langgraph-api ##API server for langgraph 
+google-genai ##Google's AI library 
